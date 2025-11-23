@@ -1265,3 +1265,242 @@ java.lang.NullPointerException: Cannot invoke "net.essentialsx.api.v2.services.d
 [21:46:07] [Server thread/INFO]: Saved the game
 [21:46:16] [Server thread/INFO]: Unknown or incomplete command. See below for error
 ./push.sh<--[HERE]
+[21:46:59] [Server thread/INFO]: killerzombie570 was slain by thegrateminecra
+[21:47:13] [Server thread/INFO]: killerzombie570 issued server command: /back
+[21:47:20] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give thegrateminiecra cooked_beef 30
+[21:47:20] [Server thread/INFO]: Error: Player not found.
+[21:47:28] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give thegrateminecra steak 30
+[21:47:28] [Server thread/INFO]: Giving 30 of beef to [Lord] thegrateminecra.
+[21:48:21] [Server thread/INFO]: thegrateminecra was slain by killerzombie570
+[21:48:24] [Server thread/INFO]: thegrateminecra issued server command: /back
+[21:48:44] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> thats my axe
+[21:48:49] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> u picked it up
+[21:48:56] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> hmm ok
+[21:48:56] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> u have mine i have urs
+[21:48:58] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> droop mine
+[21:48:59] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> frist
+[21:49:12] [Server thread/INFO]: [Not Secure] [Server] put my iron axe in
+[21:49:17] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:49:28] [Server thread/INFO]: [Not Secure] [Server] ?
+[21:49:29] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:49:39] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> WAIT
+[21:49:42] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> kk
+[21:49:44] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> u want this?
+[21:49:47] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> yes
+[21:49:50] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> we can trade
+[21:49:53] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> my dim axe
+[21:49:55] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> for ur iron
+[21:49:59] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> youll have to kill me for it
+[21:50:25] [Server thread/INFO]: killerzombie570 was slain by thegrateminecra
+[21:50:32] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> just wanted food
+[21:50:35] [Server thread/INFO]: killerzombie570 issued server command: /back
+[21:50:37] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> k sry
+[21:51:05] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:51:05] [Server thread/INFO]: [Essentials] thegrateminecra was denied access to command.
+[21:51:17] [Server thread/INFO]: Incorrect argument for command
+pl editor<--[HERE]
+[21:51:19] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[21:51:20] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> im bloood thirsty
+[21:51:20] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[21:51:20] [luckperms-command-executor/INFO]: https://luckperms.net/editor/pmCjHBrZa5
+[21:51:24] [luckperms-worker-5/INFO]: [LP] Editor window connected successfully.
+[21:51:46] [Server thread/INFO]: thegrateminecra was slain by killerzombie570
+[21:51:49] [Server thread/INFO]: thegrateminecra issued server command: /back
+[21:52:00] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> plz
+[21:52:03] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> nope
+[21:52:04] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> im tryying to sort smth out
+[21:52:21] [Server thread/INFO]: thegrateminecra was slain by killerzombie570
+[21:52:24] [Server thread/INFO]: thegrateminecra issued server command: /back
+[21:52:26] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> blood
+[21:52:33] [Server thread/INFO]: thegrateminecra issued server command: /home minie
+[21:52:37] [Server thread/INFO]: thegrateminecra issued server command: /home mine
+[21:52:45] [Server thread/INFO]: killerzombie570 issued server command: /tpa thegrateminecra
+[21:52:52] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> i wont kill
+[21:52:55] [luckperms-worker-5/INFO]: [LP] Changes have been received from the connected web editor session.
+[21:52:55] [luckperms-worker-5/INFO]: [LP] Web editor data was applied to group default successfully.
+[21:52:55] [luckperms-worker-5/INFO]: [LP] (3 additions and 0 deletions)
+[21:52:55] [luckperms-worker-5/INFO]: +  essentials.afk.message (true)
+[21:52:55] [luckperms-worker-5/INFO]: +  essentials.afk.auto (true)
+[21:52:55] [luckperms-worker-5/INFO]: +  essentials.afk (true)
+[21:52:57] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:52:59] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> trust
+[21:53:01] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> wait
+[21:53:09] [Server thread/INFO]: thegrateminecra issued server command: /home home
+[21:53:11] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:53:14] [Server thread/INFO]: [Not Secure] [Server] try hiit me
+[21:53:17] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:53:22] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> dangd
+[21:53:26] [Async Chat Thread - #23/INFO]: [Not Secure] <[Lord] thegrateminecra> stopp
+[21:53:29] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:53:33] [Server thread/INFO]: thegrateminecra issued server command: /home mine
+[21:53:47] [Async Chat Thread - #23/INFO]: [Not Secure] <[Zombie] killerzombie570> u asjed ne to kill u
+[21:53:52] [Async Chat Thread - #24/INFO]: [Not Secure] <[Lord] thegrateminecra> ..
+[21:53:57] [Async Chat Thread - #24/INFO]: [Not Secure] <[Lord] thegrateminecra> i said hit
+[21:54:04] [Server thread/INFO]: killerzombie570 issued server command: /tpa thegrateminecra
+[21:54:08] [Async Chat Thread - #24/INFO]: [Not Secure] <[Zombie] killerzombie570> accept tpa
+[21:54:14] [Async Chat Thread - #24/INFO]: [Not Secure] <[Zombie] killerzombie570> i wont kill
+[21:55:05] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /essentials reload
+[21:55:05] [Server thread/INFO]: [Essentials] Loaded 45992 items from items.json.
+[21:55:05] [Server thread/WARN]: [EssentialsDiscord] Tried to reload EssentialsX Discord config while the plugin is in an invalid state! If you've modified your config, restart your server.
+[21:55:05] [Server thread/INFO]: [Essentials] Using locale en
+[21:55:05] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:55:05] [Server thread/INFO]: Essentials reloaded 2.22.0-dev+44-87dfe37.
+[21:55:12] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:55:15] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:55:17] [Server thread/INFO]: thegrateminecra issued server command: /home home
+[21:55:25] [Async Chat Thread - #25/INFO]: [Not Secure] <[Lord] thegrateminecra> wait
+[21:55:37] [Server thread/INFO]: killerzombie570 has made the advancement [Hot Stuff]
+[21:55:41] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:55:44] [Server thread/INFO]: Unknown or incomplete command. See below for error
+try hit me<--[HERE]
+[21:55:50] [Server thread/INFO]: [Not Secure] [Server] try hit me
+[21:55:56] [Server thread/INFO]: [Not Secure] [Server] /afk woroks
+[21:56:07] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:56:12] [Async Chat Thread - #25/INFO]: [Not Secure] <[Lord] thegrateminecra> ye
+[21:56:13] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:56:18] [Server thread/INFO]: [Not Secure] [Server] i can stay afk
+[21:56:21] [Server thread/INFO]: [Not Secure] [Server] for periods
+[21:56:24] [Server thread/INFO]: [Not Secure] [Server] and stay safe
+[21:56:41] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:56:46] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:56:58] [Server thread/INFO]: thegrateminecra issued server command: /home mine
+[21:57:08] [Async Chat Thread - #25/INFO]: [Not Secure] <[Zombie] killerzombie570> how many hearts
+[21:57:12] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:57:14] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:57:16] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:57:17] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:57:19] [Async Chat Thread - #25/INFO]: [Not Secure] <[Lord] thegrateminecra> 8
+[21:57:22] [Async Chat Thread - #25/INFO]: [Not Secure] <[Zombie] killerzombie570> .
+[21:57:25] [Server thread/INFO]: killerzombie570 issued server command: /tpa thegrateminecra
+[21:57:29] [Server thread/INFO]: thegrateminecra issued server command: /tpaccept
+[21:57:29] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[21:57:30] [Server thread/INFO]: thegrateminecra issued server command: /home home
+[21:57:43] [Server thread/INFO]: killerzombie570 issued server command: /tpa thegrateminecra
+[21:57:45] [Server thread/INFO]: thegrateminecra issued server command: /tpaccept
+[21:57:48] [Server thread/INFO]: thegrateminecra issued server command: /home mine
+[21:57:52] [Server thread/INFO]: killerzombie570 issued server command: /home
+[21:57:59] [Async Chat Thread - #25/INFO]: [Not Secure] <[Zombie] killerzombie570> stop teleporting
+[21:58:09] [Async Chat Thread - #25/INFO]: [Not Secure] <[Zombie] killerzombie570> i want to fight u
+[21:58:11] [Async Chat Thread - #25/INFO]: [Not Secure] <[Lord] thegrateminecra> ....
+[21:58:13] [Async Chat Thread - #25/INFO]: [Not Secure] <[Lord] thegrateminecra> why
+[21:58:23] [Async Chat Thread - #26/INFO]: [Not Secure] <[Zombie] killerzombie570> fun
+[21:58:29] [Async Chat Thread - #26/INFO]: [Not Secure] <[Lord] thegrateminecra> oko ..
+[21:58:30] [Async Chat Thread - #26/INFO]: [Not Secure] <[Zombie] killerzombie570> pvp is fun
+[21:58:43] [Server thread/INFO]: killerzombie570 issued server command: /tpa thegrateminecra
+[21:58:45] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:58:47] [Server thread/INFO]: thegrateminecra issued server command: /tpaccept
+[21:58:48] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[21:58:52] [Server thread/INFO]: [Not Secure] [Server] afk
+[21:59:02] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[22:01:18] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:01:28] [Server thread/INFO]: killerzombie570 issued server command: /home
+[22:01:30] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:01:38] [Server thread/INFO]: killerzombie570 burned to death
+[22:01:42] [Server thread/INFO]: killerzombie570 issued server command: /back
+[22:02:55] [Server thread/INFO]: killerzombie570 issued server command: /home
+[22:02:55] [Server thread/INFO]: killerzombie570 issued server command: /home
+[22:02:58] [Server thread/INFO]: killerzombie570 burned to death
+[22:03:06] [Server thread/INFO]: killerzombie570 issued server command: /back
+[22:03:46] [Server thread/INFO]: killerzombie570 was slain by Zombie
+[22:03:53] [Async Chat Thread - #27/INFO]: [Not Secure] <[Zombie] killerzombie570> ima go bye
+[22:03:54] [Async Chat Thread - #27/INFO]: [Not Secure] <[Lord] thegrateminecra> ill be back
+[22:03:56] [Async Chat Thread - #27/INFO]: [Not Secure] <[Lord] thegrateminecra> i just um
+[22:04:00] [Async Chat Thread - #27/INFO]: [Not Secure] <[Lord] thegrateminecra> wil be like 20 mins
+[22:04:01] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[22:04:05] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[22:04:05] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[22:04:05] [Server thread/INFO]: killerzombie570 lost connection: Disconnected
+[22:04:05] [Server thread/INFO]: killerzombie570 left the game
+[22:04:19] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[22:04:31] [Server thread/INFO]: thegrateminecra issued server command: /home home
+[22:04:34] [Server thread/INFO]: thegrateminecra issued server command: /afk
+[22:05:18] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:05:30] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:09:18] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:09:30] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:13:18] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:13:30] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:17:19] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:17:31] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:21:19] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:21:31] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:25:19] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:25:31] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:29:19] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:29:31] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:33:20] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:33:32] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[22:35:02] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[22:35:02] [Server thread/INFO]: thegrateminecra lost connection: Disconnected
+[22:35:02] [Server thread/INFO]: thegrateminecra left the game
+[22:35:36] [Server thread/INFO]: Stopping server
+[22:35:36] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.1.0
+[22:35:36] [Server thread/INFO]: [SinglePlayerSleep] SinglePlayerSleep has been disabled!
+[22:35:36] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.15.1
+[22:35:36] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.15.2
+[22:35:36] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.22.0-dev+44-87dfe37
+[22:35:36] [Server thread/INFO]: [DoubleDoors] Disabling DoubleDoors v1.4
+[22:35:36] [Server thread/INFO]: [DoubleDoors] DoubleDoors has been disabled!
+[22:35:36] [Server thread/INFO]: [AxTrade] Disabling AxTrade v1.20.4
+[22:35:36] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[22:35:36] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.5.1
+[22:35:36] [Server thread/INFO]: [AxInventoryRestore] Disabling AxInventoryRestore v3.10.0
+[22:35:36] [Server thread/INFO]: [AxVaults] Disabling AxVaults v2.10.0
+[22:35:36] [Server thread/INFO]: [TAB] Disabling TAB v5.3.2
+[22:35:36] [Server thread/INFO]: [TAB] Disabled in 1ms
+[22:35:36] [Server thread/INFO]: [EssentialsDiscord] Disabling EssentialsDiscord v2.22.0-dev+44-87dfe37
+[22:35:36] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.22.0-dev+44-87dfe37
+[22:35:36] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+44-87dfe37
+[22:35:36] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[22:35:36] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[22:35:36] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.20
+[22:35:36] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:35:36] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:35:36] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:35:36] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.1
+[22:35:36] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[22:35:36] [Server thread/INFO]: Saving players
+[22:35:36] [Server thread/INFO]: Saving worlds
+[22:35:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[22:35:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[22:35:36] [Thread-5/WARN]: Exception in thread "Thread-5" java.lang.NoClassDefFoundError: org/h2/api/ErrorCode
+[22:35:36] [Thread-5/WARN]: 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:475)
+[22:35:36] [Thread-5/WARN]: 	at org.h2.message.DbException.get(DbException.java:212)
+[22:35:36] [Thread-5/WARN]: 	at org.h2.mvstore.db.Store.close(Store.java:402)
+[22:35:36] [Thread-5/WARN]: 	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1261)
+[22:35:36] [Thread-5/WARN]: 	at org.h2.engine.Database.closeImpl(Database.java:1225)
+[22:35:36] [Thread-5/WARN]: 	at org.h2.engine.Database.close(Database.java:1144)
+[22:35:36] [Thread-5/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+[22:35:36] [Thread-5/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+[22:35:36] [Thread-5/WARN]: Caused by: java.lang.ClassNotFoundException: org.h2.api.ErrorCode
+[22:35:36] [Thread-5/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+[22:35:36] [Thread-5/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[22:35:36] [Thread-5/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[22:35:36] [Thread-5/WARN]: 	... 8 more
+[22:35:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[22:35:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[22:35:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:35:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:35:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:35:36] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[22:35:36] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[22:35:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[22:35:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

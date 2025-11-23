@@ -510,7 +510,7 @@ afk-timeout-commands:
 # Other players or monsters won't be able to push them out of AFK mode.
 # This will also enable temporary god mode for the AFK player.
 # The player must use the /afk command to leave AFK mode.
-freeze-afk-players: false
+freeze-afk-players: true
 
 # When a player is AFK, should they be able to pick up items?
 # Enable this if you want to prevent people from idling in mob traps.
